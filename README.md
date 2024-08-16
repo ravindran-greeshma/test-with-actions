@@ -21,7 +21,8 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Welcome
 
-[![Step 0, Welcome](https://github.com/ravindran-greeshma/test-with-actions/actions/workflows/0-welcome.yml/badge.svg?branch=main)](https://github.com/ravindran-greeshma/test-with-actions/actions/workflows/0-welcome.yml)
+
+[![Welcom Workflow](https://github.com/ravindran-greeshma/test-with-actions/actions/workflows/0-welcome.yml/badge.svg?branch=main)](https://github.com/ravindran-greeshma/test-with-actions/actions/workflows/0-welcome.yml?branch=main)
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) can help you stick to your team’s quality standards by running tests and reporting the results on GitHub. CI tools run builds and tests, triggered by commits. The results post back to GitHub in the pull request. The goal is fewer issues in `main` and faster feedback as you work.
 
